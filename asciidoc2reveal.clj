@@ -1,6 +1,3 @@
-;; == `Libraries`
-;; This allows for a single file excutable +.clj+ file
-
 (add-libs {'org.asciidoctor/asciidoctorj-revealjs {:mvn/version "5.0.0.rc1"}
            'org.asciidoctor/asciidoctorj-pdf      {:mvn/version "1.6.2"}
            'org.asciidoctor/asciidoctorj          {:mvn/version "2.5.3"}})
